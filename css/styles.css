@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.list-group-item.completada {
+    background-color: #e9ecef;
+    text-decoration: line-through;
+}
+
+.btn {
+    margin-left: 5px;
+}
