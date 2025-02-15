@@ -78,7 +78,7 @@ Este proyecto es una aplicación web simple para gestionar tareas. Permite agreg
 
 - **Autenticación de Usuarios**: Agregar un sistema de autenticación para que cada usuario tenga su propia lista de tareas.
 - **Filtros y Búsqueda**: Implementar funcionalidades para filtrar tareas por estado (completadas/no completadas) y buscar tareas por descripción.
-- **Notificaciones**: Agregar notificaciones visuales para confirmar acciones como agregar, editar o eliminar tareas.
+- **Notificaciones**: Agregar notificaciones visuales para confirmar acciones como agregar, editar o eliminar tareas
 
 ## Contribución
 
